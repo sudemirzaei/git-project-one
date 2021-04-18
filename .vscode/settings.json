@@ -1,0 +1,15 @@
+{
+    "launch": {
+        "compounds": [
+            {
+                "name": "Compound",
+                "configurations": []
+            }
+        ],
+      "git.enabled":true,
+
+      "git.path":"c:\\git.exe"
+    }
+    
+    
+}
